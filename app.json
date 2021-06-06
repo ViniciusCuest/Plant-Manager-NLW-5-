@@ -1,0 +1,24 @@
+{
+  "name": "PlantManager",
+  "displayName": "PlantManager",
+  "expo": {
+    "name": "PlantManager",
+    "slug": "PlantManager",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "icon": "./assets/icon.png"
+  },
+  "android":{
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundImage": "#fff"
+    }
+  }
+}
